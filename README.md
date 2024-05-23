@@ -15,7 +15,7 @@
 
 # Extenciones de VSCode
 
-- [Paste JSON as code](https://marketplace.visualstudio.com/items?itemName=typeguard.quicktype-vs)
+- [Paste JSON as code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
 - [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 - [Bloc](https://marketplace.visualstudio.com/items?itemName=FelixAngelov.bloc)
 - [Dart Language](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code)
